@@ -1,1 +1,3 @@
 Read the script to understand the requirements. Not that hard...
+
+AMSI Bypass is not integrated yet but will be soon. 
